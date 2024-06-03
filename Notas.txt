@@ -1,0 +1,7 @@
+Idea para el programa
+
+1.- Tener en datos generales las imagenes que se usaran de referencia
+2.- Tener en un excel la cantidad de biomasa que tiene cada imagen
+3.- Recibir una imagen que estara en la carpeta entrada
+4.- Enviar a la red convolucional la imagen de entrada y compararla para tener la biomasa total que tiene la imagen basandonos en las fotografias y cantidad de biomasa de los datos de excel
+5.- Obtener resultado (La imagen que puse en la carpeta entradas tiene una biomasa total de 0.598)
